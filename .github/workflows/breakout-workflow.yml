@@ -20,6 +20,8 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
+          ball_color: "#7c3aed"
+          paddle_color: "#7c3aed"
 
       - name: Move generated SVGs
         run: |
