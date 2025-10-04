@@ -19,4 +19,4 @@ location:
 
 ---
 
-More about myself [**LinkedIn**](https://www.linkedin.com/in/polohi/), [**Blog Post**](https://polo871209.github.io/blog/)
+More about myself [**LinkedIn**](https://www.linkedin.com/in/polohi/), [**Blog Post**](https://polo.is-not-a.dev)
