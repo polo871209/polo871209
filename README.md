@@ -1,12 +1,17 @@
 ## Hey This is Po 🌊
 
 ```yaml
-title:
-  current: Site Reliability Engineer
-  previous: Scuba Instructor
-location:
-  current: Malaysia
-  born: Taiwan
+apiVersion: v28
+kind: Human
+metadata:
+  name: Po
+spec:
+  title:
+    current: "Site Reliability Engineer"
+    previous: "Scuba Instructor"
+  location:
+    current: Malaysia
+    born: Taiwan
 ```
 
 ---
