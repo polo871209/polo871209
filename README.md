@@ -25,7 +25,7 @@ spec:
 ---
 
 <p>
-  <a href="https://polo.is-not-a.dev"><img src="https://polo.is-not-a.dev/favicon.svg" width="18" height="18" align="top"> <b>Polog</b></a>
+  <a href="https://polo.is-not-a.dev"><img src="https://polo.is-not-a.dev/favicon-32x32.png" width="18" height="18" align="top"> <b>Polog</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/polohi/"><img src="https://www.linkedin.com/favicon.ico" width="18" height="18" align="top"> <b>LinkedIn</b></a>
 </p>
